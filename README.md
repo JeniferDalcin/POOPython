@@ -1,0 +1,1 @@
+Just starting a new project POO and some exemples using class.
